@@ -1,0 +1,6 @@
+c:\users\dany\documents\visual studio 2013\Projects\assignment\assignment\bin\Debug\assignment.exe.config
+c:\users\dany\documents\visual studio 2013\Projects\assignment\assignment\bin\Debug\assignment.exe
+c:\users\dany\documents\visual studio 2013\Projects\assignment\assignment\bin\Debug\assignment.pdb
+c:\users\dany\documents\visual studio 2013\Projects\assignment\assignment\obj\Debug\assignment.csprojResolveAssemblyReference.cache
+c:\users\dany\documents\visual studio 2013\Projects\assignment\assignment\obj\Debug\assignment.exe
+c:\users\dany\documents\visual studio 2013\Projects\assignment\assignment\obj\Debug\assignment.pdb
